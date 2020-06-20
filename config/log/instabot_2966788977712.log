@@ -1,0 +1,22 @@
+2020-06-17 21:12:02,900 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-06-17 21:12:02,900 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Python38\lib\site-packages\instabot\bot\bot.py
+2020-06-17 21:12:02,901 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-06-17 21:12:02,902 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-06-17 21:12:02,902 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python_files\InstaBot/config/viivek_uvv_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=798076f4-f73d-4a32-a16f-c9c77aba0e74
+- uuid=92240e82-69b6-43a5-b3b1-6cb53e26b937
+- client_session_id=4c34e53c-64ea-4124-9239-2a704b3dead1
+- device_id=android-0134f5818f0fb323
+2020-06-17 21:12:02,919 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-17 21:12:04,517 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-06-17 21:12:05,882 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-06-17 21:12:05,892 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'viivek_uvv'!
+2020-06-17 21:12:05,893 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python_files\InstaBot/config/viivek_uvv.checkpoint
+2020-06-17 21:12:05,895 - instabot version: 0.117.0 (bot_direct) - INFO - Going to send 11 messages.
+2020-06-17 21:12:06,608 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/n/usernameinfo/ returned response: <Response [200]>
+2020-06-17 21:12:08,545 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/threads/broadcast/text/ returned response: <Response [200]>
+2020-06-17 21:12:09,268 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/i/usernameinfo/ returned response: <Response [200]>
+2020-06-17 21:13:11,093 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: D:\python_files\InstaBot/config/viivek_uvv.checkpoint
+2020-06-17 21:13:11,098 - instabot version: 0.117.0 (bot) - INFO - Total messages: 1/78
+2020-06-17 21:13:11,115 - instabot version: 0.117.0 (bot) - INFO - Total requests: 55

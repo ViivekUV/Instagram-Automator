@@ -1,0 +1,24 @@
+2020-06-17 20:38:43,345 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-06-17 20:38:43,346 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Python38\lib\site-packages\instabot\bot\bot.py
+2020-06-17 20:38:43,347 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-06-17 20:38:43,347 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-06-17 20:38:43,347 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python_files\InstaBot/config/viivek_uvv_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=798076f4-f73d-4a32-a16f-c9c77aba0e74
+- uuid=92240e82-69b6-43a5-b3b1-6cb53e26b937
+- client_session_id=14d49a25-75d9-4a0a-9977-28f5fd2a8de1
+- device_id=android-0134f5818f0fb323
+2020-06-17 20:38:43,356 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-17 20:38:44,986 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-06-17 20:38:46,236 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-06-17 20:38:46,239 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'viivek_uvv'!
+2020-06-17 20:38:46,239 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python_files\InstaBot/config/viivek_uvv.checkpoint
+2020-06-17 20:38:46,855 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/viswa5427/usernameinfo/ returned response: <Response [200]>
+2020-06-17 20:38:48,380 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/threads/broadcast/upload_photo/ returned response: <Response [400]>
+2020-06-17 20:38:48,380 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "challenge_required", "challenge": {"url": "https://i.instagram.com/challenge/?challenge_node_id=18038947249259419", "api_path": "/challenge/?challenge_node_id=18038947249259419", "hide_webview_header": true, "lock": true, "logout": false, "native_flow": true}, "status": "fail"}'
+2020-06-17 20:38:48,380 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2020-06-17 20:38:48,381 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: challenge_required
+2020-06-17 20:38:48,381 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2020-06-17 20:38:48,382 - instabot version: 0.117.0 (bot_direct) - INFO - Message to ['10140409752'] wasn't sent
+2020-06-17 20:38:48,383 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: D:\python_files\InstaBot/config/viivek_uvv.checkpoint
+2020-06-17 20:38:48,384 - instabot version: 0.117.0 (bot) - INFO - Total requests: 38

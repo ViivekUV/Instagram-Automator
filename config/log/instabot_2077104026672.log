@@ -1,0 +1,27 @@
+2020-06-17 20:56:01,118 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-06-17 20:56:01,119 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Python38\lib\site-packages\instabot\bot\bot.py
+2020-06-17 20:56:01,119 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-06-17 20:56:01,120 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-06-17 20:56:01,120 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python_files\InstaBot/config/viivek_uvv_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=798076f4-f73d-4a32-a16f-c9c77aba0e74
+- uuid=92240e82-69b6-43a5-b3b1-6cb53e26b937
+- client_session_id=14d49a25-75d9-4a0a-9977-28f5fd2a8de1
+- device_id=android-0134f5818f0fb323
+2020-06-17 20:56:01,163 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-17 20:56:02,403 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-06-17 20:56:03,473 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-06-17 20:56:04,337 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-06-17 20:56:04,888 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-06-17 20:56:06,607 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/inbox/ returned response: <Response [200]>
+2020-06-17 20:56:06,987 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-06-17 20:56:08,068 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/?limited_activity=true&show_su=true returned response: <Response [200]>
+2020-06-17 20:56:08,513 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/profile_notice/ returned response: <Response [200]>
+2020-06-17 20:56:10,202 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: discover/explore/ returned response: <Response [200]>
+2020-06-17 20:56:10,211 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'viivek_uvv'!
+2020-06-17 20:56:10,212 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python_files\InstaBot/config/viivek_uvv.checkpoint
+2020-06-17 20:56:10,213 - instabot version: 0.117.0 (bot_direct) - INFO - Going to send 12 messages.
+2020-06-17 20:56:10,931 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/a/usernameinfo/ returned response: <Response [404]>
+2020-06-17 20:56:10,932 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "User not found", "status": "fail"}'
+2020-06-17 20:56:11,410 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: D:\python_files\InstaBot/config/viivek_uvv.checkpoint
+2020-06-17 20:56:11,411 - instabot version: 0.117.0 (bot) - INFO - Total requests: 52

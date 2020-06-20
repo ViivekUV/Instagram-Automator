@@ -1,0 +1,21 @@
+2020-06-17 21:29:48,471 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-06-17 21:29:48,472 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Python38\lib\site-packages\instabot\bot\bot.py
+2020-06-17 21:29:48,472 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-06-17 21:29:48,473 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-06-17 21:29:48,473 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python_files\InstaBot/config/viivek_uvv_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=798076f4-f73d-4a32-a16f-c9c77aba0e74
+- uuid=92240e82-69b6-43a5-b3b1-6cb53e26b937
+- client_session_id=4c34e53c-64ea-4124-9239-2a704b3dead1
+- device_id=android-0134f5818f0fb323
+2020-06-17 21:29:48,474 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-06-17 21:29:49,979 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-06-17 21:29:51,297 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-06-17 21:29:51,406 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'viivek_uvv'!
+2020-06-17 21:29:51,408 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python_files\InstaBot/config/viivek_uvv.checkpoint
+2020-06-17 21:30:12,581 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-06-17 21:30:13,197 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-06-17 21:30:13,199 - instabot version: 0.117.0 (bot_photo) - INFO - Photo './images/insta.JPG' is uploaded.
+2020-06-17 21:30:13,201 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: D:\python_files\InstaBot/config/viivek_uvv.checkpoint
+2020-06-17 21:30:13,202 - instabot version: 0.117.0 (bot) - INFO - Total messages: 1/98
+2020-06-17 21:30:13,203 - instabot version: 0.117.0 (bot) - INFO - Total requests: 59
