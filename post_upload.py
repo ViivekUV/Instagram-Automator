@@ -5,7 +5,7 @@ from instabot import Bot
 bot = Bot()
 
 # Login to your account by typing in username and password
-bot.login(username='viivek_uvv', password='realmadridRONALDOINSTA007')
+bot.login(username='username', password='password')
 
 # Image path
 image = "./images/insta.JPG"
